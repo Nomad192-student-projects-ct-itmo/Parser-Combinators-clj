@@ -1,4 +1,4 @@
-# Parser-combinators
+# Parser-combinators in Clojure
 
 ## Комбинаторные парсеры
 
